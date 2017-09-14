@@ -1,0 +1,51 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{186, 178}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "hello_world_lable",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "7FF87587-1353-46ED-9416-DE4A73BEC8AA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{185, 278}, {151, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "hello_world_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "click me!!",
+          "uuid" : "17FE1D53-365D-4242-ABFD-09F5AC2FF1B8",
+          "class" : "Button",
+          "name" : "hello_world_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
